@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Max",
+        "breed": "Labrador Retriever",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Teddy",
+        "breed": "Goldendoodle",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Bailey",
+        "breed": "Golden Retriever",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Cooper",
+        "breed": "French Bulldog",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Lucy",
+        "breed": "Labradoodle",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Bear",
+        "breed": "German Shepherd",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Lola",
+        "breed": "Shih Tzu",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Zoe",
+        "breed": "Chihuahua",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Stella",
+        "breed": "Yorkshire Terrier",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    },
+    {
+        "name": "Jasper",
+        "breed": "Cavalier King Charles Spaniel",
+        "age": "2 years old",
+        "sex": "Female",
+        "species": "dog"
+    }
+]

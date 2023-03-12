@@ -1,0 +1,30 @@
+.loggedin-section {
+  position: relative;
+  background-color: #aed9e0;
+  /* background-image: url(../images/Proj.03\ Logged\ in.png); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.loggedin-text-container {
+  position: absolute;
+  bottom: 35rem;
+  right: 20rem;
+  color: #000000;
+}
+.loggedin-title {
+  font-size: 52px;
+}
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .loggedin-section {
+    background-image: url(../images/Proj.03\ Logged\ in.png);
+  }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .loggedin-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Logged\ In.png);
+  }
+}

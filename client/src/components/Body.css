@@ -1,0 +1,30 @@
+.body-section {
+  position: relative;
+  background-color: #5e6472;
+  /* background-image: url(../images/Proj.03\ \ BodyVariation2.png); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.body-text-container {
+  position: absolute;
+  bottom: 32rem;
+  left: 8rem;
+  color: #ffa69e;
+}
+.body-title {
+  font-size: 48px;
+}
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .body-section {
+    background-image: url(../images/Proj.03\ \ BodyVariation2.png);
+  }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .body-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Body.png);
+  }
+}

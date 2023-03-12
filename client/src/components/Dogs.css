@@ -1,0 +1,34 @@
+.dogcard-section {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #aed9e0;
+  background-image: url(../images/Proj.03\ DogCardsVariation4.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.dogcard-text-container {
+  position: absolute;
+  bottom: 10rem;
+  right: 54rem;
+  color: #000000;
+}
+.dogcard-title {
+  font-size: 84px;
+}
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .dogcard-section {
+    background-image: url(../images/Proj.03\ DogCardsVariation4.png);
+  }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .dogcard-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Dogs.png);
+  }
+}

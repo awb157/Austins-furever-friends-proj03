@@ -1,0 +1,72 @@
+[
+  {
+      "name": "Milo",
+      "breed": "American Shorthair",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Luna",
+      "breed": "Ragdoll",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Oliver",
+      "breed": "Maine Coon",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Loki",
+      "breed": "Bengal",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Bella",
+      "breed": "Siamese",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Leo",
+      "breed": "Sphynx",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Mochi",
+      "breed": "Siberian",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Charlie",
+      "breed": "British Shorthair",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Lily",
+      "breed": "Persian",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  },
+  {
+      "name": "Willow",
+      "breed": "Scottish Fold",
+      "age": "2 years old",
+      "sex": "Female",
+      "species": "cat"
+  }
+]

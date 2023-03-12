@@ -1,0 +1,34 @@
+.adoptform-section {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #aed9e0;
+  /* background-image: url(../images/Proj.03\ Adopt.png); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.newuser-text-container {
+  position: absolute;
+  bottom: 32rem;
+  left: 8rem;
+  color: #ffa69e;
+}
+.newuser-title {
+  font-size: 48px;
+}
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .adoptform-section {
+    background-image: url(../images/Proj.03\ Adopt.png);
+  }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .adoptform-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Adopt.png);
+  }
+}

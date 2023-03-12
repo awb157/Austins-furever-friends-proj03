@@ -1,0 +1,34 @@
+.catcardopened-section {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #aed9e0;
+  /* background-image: url(../images/Proj.03\ CatCardSingleDisplay.png); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+/* .catcardopened-text-container {
+    position: absolute;
+    bottom: 35rem;
+    right: 10rem;
+    color: #5e6472;
+  }
+  .catcardopened-title {
+    font-size: 52px;
+  } */
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .catcardopened-section {
+    background-image: url(../images/Proj.03\ CatCardSingleDisplay.png);
+  }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .catcardopened-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Cat\ Single.png);
+  }
+}
